@@ -1,0 +1,39 @@
+.App {
+  display: flex;
+  justify-content: center;
+  margin-top: 10rem;
+  text-align: center;
+}
+
+input{
+  border: none;
+  height: 2rem;
+  text-align: center;
+  font-size: 1rem;
+}
+
+/* CustomTable Styles */
+
+/* .custom__table{
+  border: 1px, solid black;
+  width: 35rem;
+} */
+
+table{
+  border: 1px, solid black;
+}
+
+th,tr{
+  border: 1px, solid black;
+}
+
+td{
+  border: .5px solid black;
+}
+/* -- */
+
+/* Row Styles */
+
+
+
+/* -- */
